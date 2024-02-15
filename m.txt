@@ -1,0 +1,5 @@
+npm init -y
+ npm i -d typescript @types/node ts-node-dev
+ npm i express
+ npm i -d 
+tsnd --respawn src/index.ts
